@@ -1,3 +1,4 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 2.8)
 
-set(SRC_LIST "${SRC_LIST} main.c")
+add_executable(main.elf main.c)
+add_bin_from_elf(main.bin main.elf)
