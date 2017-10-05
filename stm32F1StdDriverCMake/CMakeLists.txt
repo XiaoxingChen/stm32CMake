@@ -16,9 +16,11 @@ function(add_bin_from_elf bin elf)
 endfunction(add_bin_from_elf)
 
 set(SRC_LIST "")
-#include_directories(Libraries/inc)
+include_directories(Libraries/inc)
+include_directories(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10X)
 add_subdirectory(Libraries)
 add_subdirectory(user)
+add_subdirectory(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10X)
 
 #add_executable(main.elf ${SRC_LIST})
 message(STATUS "src_list: " ${SRC_LIST})
