@@ -8,7 +8,7 @@ ENDIF(NOT CMAKE_CROSSCOMPILING)
 
 #add_definitions(-DSTM32F1)
 
-set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -mcpu=cortex-m3 -mthumb -nostartfiles")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -mcpu=cortex-m3 -mthumb -nostartfiles -DSTM32F10X_HD")
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -T ../../stm32_flash.ld -nostartfiles --specs=rdimon.specs")
 
 function(add_bin_from_elf bin elf)
@@ -17,10 +17,10 @@ endfunction(add_bin_from_elf)
 
 set(SRC_LIST "")
 include_directories(Libraries/inc)
-include_directories(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10X)
+include_directories(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x)
 add_subdirectory(Libraries)
 add_subdirectory(user)
-add_subdirectory(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10X)
+add_subdirectory(Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x)
 
 #add_executable(main.elf ${SRC_LIST})
 message(STATUS "src_list: " ${SRC_LIST})
