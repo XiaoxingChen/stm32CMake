@@ -3,7 +3,7 @@ OBJS = main.o
 CC = arm-none-eabi-gcc
 LD = arm-none-eabi-ld
 OBJCP = arm-none-eabi-objcopy
-CFLAGS = -mcpu=cortex-m3 -mthumb -nostartfiles
+CFLAGS = -mcpu=cortex-m3 -mthumb -nostartfiles -g
 LFLAGS = -T stm32-linux.ld
 CPFLAGS = -Obinary
 TARGET_ELF = $(TARGET).elf
