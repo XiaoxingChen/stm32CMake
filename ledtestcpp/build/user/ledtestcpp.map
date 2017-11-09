@@ -1,0 +1,1994 @@
+Archive member included because of file (symbol)
+
+../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+                              CMakeFiles/main.elf.dir/delay.c.obj (SystemCoreClock)
+../Libraries/src/libstddriver.a(misc.c.obj)
+                              CMakeFiles/main.elf.dir/delay.c.obj (SysTick_CLKSourceConfig)
+../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+                              CMakeFiles/main.elf.dir/main.cpp.obj (RCC_APB2PeriphClockCmd)
+../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+                              CMakeFiles/main.elf.dir/main.cpp.obj (GPIO_Init)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                              CMakeFiles/main.elf.dir/main.cpp.obj (__gxx_personality_v0)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                              CMakeFiles/main.elf.dir/main.cpp.obj (__cxa_end_cleanup)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o) (std::terminate())
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o) (__cxa_call_terminate)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o) (__cxa_begin_catch)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o) (std::bad_exception::~bad_exception())
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o) (__cxxabiv1::__terminate_handler)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o) (__cxa_throw)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o) (__cxxabiv1::__unexpected_handler)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o) (__cxa_get_globals_fast)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o) (vtable for __cxxabiv1::__class_type_info)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o) (__cxa_allocate_exception)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o) (operator delete(void*))
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o) (__cxa_pure_virtual)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o) (vtable for __cxxabiv1::__si_class_type_info)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o) (std::type_info::~type_info())
+/usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o) (__aeabi_unwind_cpp_pr0)
+/usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o) (restore_core_regs)
+/usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o) (abort)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o) (malloc)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o) (memcpy)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o) (memset)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o) (raise)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o) (_kill_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o) (strcmp)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o) (_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o) (_getpid)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o) (_exit)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o) (_kill)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o) (__errno)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o) (__sinit)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o) (strlen)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (fclose)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o) (_fflush_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00040000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/main.elf.dir/main.cpp.obj
+LOAD CMakeFiles/main.elf.dir/delay.c.obj
+LOAD CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+LOAD ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a
+LOAD ../Libraries/src/libstddriver.a
+LOAD ../CMSIS/CM3/CoreSupport/libcmsis_cm3.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libm.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a
+END GROUP
+END GROUP
+                0x20010000                _estack = 0x20010000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000200                _Min_Stack_Size = 0x200
+
+.isr_vector     0x08000000        0x0
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+                0x08000000                . = ALIGN (0x4)
+
+.text           0x08000000     0x72ac
+                0x08000000                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000000      0x110 CMakeFiles/main.elf.dir/main.cpp.obj
+                0x08000000                main
+                0x08000090                GPIO_CONFIG()
+ .text          0x08000110      0x180 CMakeFiles/main.elf.dir/delay.c.obj
+                0x08000110                delay_init
+                0x08000164                delay_us
+                0x080001f8                delay_ms
+ .text          0x08000290       0x5c CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+                0x08000290                NMI_Handler
+                0x0800029c                HardFault_Handler
+                0x080002a4                MemManage_Handler
+                0x080002ac                BusFault_Handler
+                0x080002b4                UsageFault_Handler
+                0x080002bc                SVC_Handler
+                0x080002c8                DebugMon_Handler
+                0x080002d4                PendSV_Handler
+                0x080002e0                SysTick_Handler
+ .text          0x080002ec      0x390 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+                0x080002ec                SystemInit
+                0x08000394                SystemCoreClockUpdate
+ .text          0x0800067c      0x1c4 ../Libraries/src/libstddriver.a(misc.c.obj)
+                0x0800067c                NVIC_PriorityGroupConfig
+                0x080006a4                NVIC_Init
+                0x08000774                NVIC_SetVectorTable
+                0x080007a0                NVIC_SystemLPConfig
+                0x080007f4                SysTick_CLKSourceConfig
+ .text          0x08000840      0x980 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+                0x08000840                RCC_DeInit
+                0x080008dc                RCC_HSEConfig
+                0x08000964                RCC_WaitForHSEStartUp
+                0x080009b4                RCC_AdjustHSICalibrationValue
+                0x080009f8                RCC_HSICmd
+                0x08000a18                RCC_PLLConfig
+                0x08000a5c                RCC_PLLCmd
+                0x08000a7c                RCC_SYSCLKConfig
+                0x08000abc                RCC_GetSYSCLKSource
+                0x08000adc                RCC_HCLKConfig
+                0x08000b1c                RCC_PCLK1Config
+                0x08000b5c                RCC_PCLK2Config
+                0x08000b9c                RCC_ITConfig
+                0x08000bf8                RCC_USBCLKConfig
+                0x08000c14                RCC_ADCCLKConfig
+                0x08000c54                RCC_LSEConfig
+                0x08000ca8                RCC_LSICmd
+                0x08000cc8                RCC_RTCCLKConfig
+                0x08000cf4                RCC_RTCCLKCmd
+                0x08000d14                RCC_GetClocksFreq
+                0x08000ed0                RCC_AHBPeriphClockCmd
+                0x08000f20                RCC_APB2PeriphClockCmd
+                0x08000f70                RCC_APB1PeriphClockCmd
+                0x08000fc0                RCC_APB2PeriphResetCmd
+                0x08001010                RCC_APB1PeriphResetCmd
+                0x08001060                RCC_BackupResetCmd
+                0x08001080                RCC_ClockSecuritySystemCmd
+                0x080010a0                RCC_MCOConfig
+                0x080010c0                RCC_GetFlagStatus
+                0x08001144                RCC_ClearFlag
+                0x08001168                RCC_GetITStatus
+                0x080011a0                RCC_ClearITPendingBit
+ .text          0x080011c0      0x618 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+                0x080011c0                GPIO_DeInit
+                0x080012b0                GPIO_AFIODeInit
+                0x080012c8                GPIO_Init
+                0x08001440                GPIO_StructInit
+                0x08001468                GPIO_ReadInputDataBit
+                0x0800149c                GPIO_ReadInputData
+                0x080014b8                GPIO_ReadOutputDataBit
+                0x080014ec                GPIO_ReadOutputData
+                0x08001508                GPIO_SetBits
+                0x08001524                GPIO_ResetBits
+                0x08001540                GPIO_WriteBit
+                0x08001570                GPIO_Write
+                0x0800158c                GPIO_PinLockConfig
+                0x080015d0                GPIO_EventOutputConfig
+                0x0800161c                GPIO_EventOutputCmd
+                0x0800163c                GPIO_PinRemapConfig
+                0x08001730                GPIO_EXTILineConfig
+                0x080017bc                GPIO_ETH_MediaInterfaceConfig
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .text          0x080017d8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .text          0x080017d8     0x1004 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+                0x08001c78                _Unwind_GetCFA
+                0x08001c80                __gnu_Unwind_RaiseException
+                0x08001d30                __gnu_Unwind_ForcedUnwind
+                0x08001d54                __gnu_Unwind_Resume
+                0x08001dc8                __gnu_Unwind_Resume_or_Rethrow
+                0x08001de4                _Unwind_Complete
+                0x08001de8                _Unwind_DeleteException
+                0x08001e0c                _Unwind_VRS_Get
+                0x08001e98                _Unwind_VRS_Set
+                0x08001f24                __gnu_Unwind_Backtrace
+                0x08002428                __aeabi_unwind_cpp_pr0
+                0x08002430                __aeabi_unwind_cpp_pr1
+                0x08002438                __aeabi_unwind_cpp_pr2
+                0x08002440                _Unwind_VRS_Pop
+ .text          0x080027dc      0x1b0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+                0x080027dc                __restore_core_regs
+                0x080027dc                restore_core_regs
+                0x080027f8                __gnu_Unwind_Restore_VFP
+                0x08002800                __gnu_Unwind_Save_VFP
+                0x08002808                __gnu_Unwind_Restore_VFP_D
+                0x08002810                __gnu_Unwind_Save_VFP_D
+                0x08002818                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x08002820                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x08002828                __gnu_Unwind_Restore_WMMXD
+                0x0800286c                __gnu_Unwind_Save_WMMXD
+                0x080028b0                __gnu_Unwind_Restore_WMMXC
+                0x080028c4                __gnu_Unwind_Save_WMMXC
+                0x080028d8                ___Unwind_RaiseException
+                0x080028d8                _Unwind_RaiseException
+                0x080028fc                ___Unwind_Resume
+                0x080028fc                _Unwind_Resume
+                0x08002920                _Unwind_Resume_or_Rethrow
+                0x08002920                ___Unwind_Resume_or_Rethrow
+                0x08002944                ___Unwind_ForcedUnwind
+                0x08002944                _Unwind_ForcedUnwind
+                0x08002968                _Unwind_Backtrace
+                0x08002968                ___Unwind_Backtrace
+ .text          0x0800298c      0x4d0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+                0x08002a20                __gnu_unwind_execute
+                0x08002dd0                __gnu_unwind_frame
+                0x08002e18                _Unwind_GetRegionStart
+                0x08002e2c                _Unwind_GetLanguageSpecificData
+                0x08002e4c                _Unwind_GetDataRelBase
+                0x08002e54                _Unwind_GetTextRelBase
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text          0x08002e5c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .text          0x08002e5c      0x230 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x08002e5c                strcmp
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .text          0x0800308c        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ *(.text*)
+ .text._ZL12read_sleb128PKhPl
+                0x0800308c       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .text._ZL28read_encoded_value_with_basehjPKhPj
+                0x080030d0      0x168 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .text._ZL21base_of_encoded_valuehP15_Unwind_Context
+                0x08003238       0x84 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .text._ZL17parse_lsda_headerP15_Unwind_ContextPKhP16lsda_header_info
+                0x080032bc       0xe0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .text.__gxx_personality_v0
+                0x0800339c      0x62c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                0x0800339c                __gxx_personality_v0
+ .text.__cxa_end_cleanup
+                0x080039c8       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                0x080039c8                __cxa_end_cleanup
+ .text.__cxa_type_match
+                0x080039d8      0x148 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                0x080039d8                __cxa_type_match
+ .text.__cxa_begin_cleanup
+                0x08003b20       0xbc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                0x08003b20                __cxa_begin_cleanup
+ .text.__gnu_end_cleanup
+                0x08003bdc       0xbc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                0x08003bdc                __gnu_end_cleanup
+ .text._ZN10__cxxabiv111__terminateEPFvvE
+                0x08003c98       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003c98                __cxxabiv1::__terminate(void (*)())
+ .text._ZSt9terminatev
+                0x08003ccc       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003ccc                std::terminate()
+ .text._ZN10__cxxabiv112__unexpectedEPFvvE
+                0x08003ce0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003ce0                __cxxabiv1::__unexpected(void (*)())
+ .text._ZSt10unexpectedv
+                0x08003cf0       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003cf0                std::unexpected()
+ .text._ZSt13set_terminatePFvvE
+                0x08003d04       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003d04                std::set_terminate(void (*)())
+ .text._ZSt14set_unexpectedPFvvE
+                0x08003d1c       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                0x08003d1c                std::set_unexpected(void (*)())
+ .text._ZN10__cxxabiv1L24__is_gxx_exception_classEPc
+                0x08003d34       0x70 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .text.__cxa_call_terminate
+                0x08003da4       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                0x08003da4                __cxa_call_terminate
+ .text.__cxa_call_unexpected
+                0x08003dd0      0x138 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                0x08003dd0                __cxa_call_unexpected
+ .text.__cxa_get_exception_ptr
+                0x08003f08        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                0x08003f08                __cxa_get_exception_ptr
+ .text.__cxa_begin_catch
+                0x08003f10       0xe4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                0x08003f10                __cxa_begin_catch
+ .text.__cxa_end_catch
+                0x08003ff4       0xe4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                0x08003ff4                __cxa_end_catch
+ .text._ZSt18uncaught_exceptionv
+                0x080040d8       0x1c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                0x080040d8                std::uncaught_exception()
+ .text._ZNSt9exceptionD2Ev
+                0x080040f4       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080040f4                std::exception::~exception()
+                0x080040f4                std::exception::~exception()
+ .text._ZNSt13bad_exceptionD2Ev
+                0x08004104       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004104                std::bad_exception::~bad_exception()
+                0x08004104                std::bad_exception::~bad_exception()
+ .text._ZN10__cxxabiv115__forced_unwindD2Ev
+                0x08004114       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004114                __cxxabiv1::__forced_unwind::~__forced_unwind()
+                0x08004114                __cxxabiv1::__forced_unwind::~__forced_unwind()
+ .text._ZN10__cxxabiv119__foreign_exceptionD2Ev
+                0x08004124       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004124                __cxxabiv1::__foreign_exception::~__foreign_exception()
+                0x08004124                __cxxabiv1::__foreign_exception::~__foreign_exception()
+ .text._ZNKSt9exception4whatEv
+                0x08004134        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004134                std::exception::what() const
+ .text._ZNKSt13bad_exception4whatEv
+                0x08004140        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004140                std::bad_exception::what() const
+ .text._ZNSt9exceptionD0Ev
+                0x0800414c       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x0800414c                std::exception::~exception()
+ .text._ZNSt13bad_exceptionD0Ev
+                0x08004170       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004170                std::bad_exception::~bad_exception()
+ .text._ZN10__cxxabiv115__forced_unwindD0Ev
+                0x08004194       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08004194                __cxxabiv1::__forced_unwind::~__forced_unwind()
+ .text._ZN10__cxxabiv119__foreign_exceptionD0Ev
+                0x080041b8       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080041b8                __cxxabiv1::__foreign_exception::~__foreign_exception()
+ .text._ZL23__gxx_exception_cleanup19_Unwind_Reason_CodeP21_Unwind_Control_Block
+                0x080041dc       0x3c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .text.__cxa_throw
+                0x08004218       0xb0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+                0x08004218                __cxa_throw
+ .text.__cxa_rethrow
+                0x080042c8       0xb0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+                0x080042c8                __cxa_rethrow
+ .text.__cxa_get_globals_fast
+                0x08004378        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+                0x08004378                __cxa_get_globals_fast
+ .text.__cxa_get_globals
+                0x08004384        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+                0x08004384                __cxa_get_globals
+ .text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PPv
+                0x08004390       0x64 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x08004390                __cxxabiv1::__class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void**) const
+ .text._ZNK10__cxxabiv117__class_type_info20__do_find_public_srcEiPKvPKS0_S2_
+                0x080043f4       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x080043f4                __cxxabiv1::__class_type_info::__do_find_public_src(int, void const*, __cxxabiv1::__class_type_info const*, void const*) const
+ .text._ZN10__cxxabiv117__class_type_infoD2Ev
+                0x08004408       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x08004408                __cxxabiv1::__class_type_info::~__class_type_info()
+                0x08004408                __cxxabiv1::__class_type_info::~__class_type_info()
+ .text._ZN10__cxxabiv117__class_type_infoD0Ev
+                0x0800442c       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x0800442c                __cxxabiv1::__class_type_info::~__class_type_info()
+ .text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PKvRNS0_15__upcast_resultE
+                0x08004458       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x08004458                __cxxabiv1::__class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__upcast_result&) const
+ .text._ZNK10__cxxabiv117__class_type_info10__do_catchEPKSt9type_infoPPvj
+                0x08004488       0x54 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x08004488                __cxxabiv1::__class_type_info::__do_catch(std::type_info const*, void**, unsigned int) const
+ .text._ZNK10__cxxabiv117__class_type_info12__do_dyncastEiNS0_10__sub_kindEPKS0_PKvS3_S5_RNS0_16__dyncast_resultE
+                0x080044dc       0x7c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x080044dc                __cxxabiv1::__class_type_info::__do_dyncast(int, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+ .text.__cxa_allocate_exception
+                0x08004558       0x88 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                0x08004558                __cxa_allocate_exception
+ .text.__cxa_free_exception
+                0x080045e0       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                0x080045e0                __cxa_free_exception
+ .text.__cxa_allocate_dependent_exception
+                0x08004638       0x80 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                0x08004638                __cxa_allocate_dependent_exception
+ .text.__cxa_free_dependent_exception
+                0x080046b8       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                0x080046b8                __cxa_free_dependent_exception
+ .text._ZdlPv   0x08004718       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+                0x08004718                operator delete(void*)
+ .text.__cxa_pure_virtual
+                0x0800472c        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                0x0800472c                __cxa_pure_virtual
+ .text.__cxa_deleted_virtual
+                0x08004734        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                0x08004734                __cxa_deleted_virtual
+ .text._ZN10__cxxabiv120__si_class_type_infoD2Ev
+                0x0800473c       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x0800473c                __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+                0x0800473c                __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+ .text._ZN10__cxxabiv120__si_class_type_infoD0Ev
+                0x08004760       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x08004760                __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+ .text._ZNK10__cxxabiv120__si_class_type_info20__do_find_public_srcEiPKvPKNS_17__class_type_infoES2_
+                0x0800478c       0x6c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x0800478c                __cxxabiv1::__si_class_type_info::__do_find_public_src(int, void const*, __cxxabiv1::__class_type_info const*, void const*) const
+ .text._ZNK10__cxxabiv120__si_class_type_info12__do_dyncastEiNS_17__class_type_info10__sub_kindEPKS1_PKvS4_S6_RNS1_16__dyncast_resultE
+                0x080047f8       0xf0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x080047f8                __cxxabiv1::__si_class_type_info::__do_dyncast(int, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+ .text._ZNK10__cxxabiv120__si_class_type_info11__do_upcastEPKNS_17__class_type_infoEPKvRNS1_15__upcast_resultE
+                0x080048e8       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x080048e8                __cxxabiv1::__si_class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__upcast_result&) const
+ .text._ZNSt9type_infoD2Ev
+                0x08004930       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08004930                std::type_info::~type_info()
+                0x08004930                std::type_info::~type_info()
+ .text._ZNKSt9type_info14__is_pointer_pEv
+                0x08004940        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08004940                std::type_info::__is_pointer_p() const
+ .text._ZNKSt9type_info15__is_function_pEv
+                0x08004948        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08004948                std::type_info::__is_function_p() const
+ .text._ZNKSt9type_info11__do_upcastEPKN10__cxxabiv117__class_type_infoEPPv
+                0x08004950        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08004950                std::type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void**) const
+ .text._ZNSt9type_infoD0Ev
+                0x08004958       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08004958                std::type_info::~type_info()
+ .text._ZNKSt9type_infoeqERKS_
+                0x0800497c       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x0800497c                std::type_info::operator==(std::type_info const&) const
+ .text._ZNKSt9type_info10__do_catchEPKS_PPvj
+                0x080049cc        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x080049cc                std::type_info::__do_catch(std::type_info const*, void**, unsigned int) const
+ .text.abort    0x080049d0       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+                0x080049d0                abort
+ .text.malloc   0x080049e4       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                0x080049e4                malloc
+ .text.free     0x08004a04       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                0x08004a04                free
+ .text._malloc_r
+                0x08004a24      0x74c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x08004a24                _malloc_r
+ .text.memcpy   0x08005170       0xf0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                0x08005170                memcpy
+ .text.memset   0x08005260       0xf4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x08005260                memset
+ .text.__malloc_lock
+                0x08005354        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x08005354                __malloc_lock
+ .text.__malloc_unlock
+                0x08005358        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x08005358                __malloc_unlock
+ .text._sbrk_r  0x0800535c       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x0800535c                _sbrk_r
+ .text._init_signal_r
+                0x080053a0       0x64 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x080053a0                _init_signal_r
+ .text._signal_r
+                0x08005404       0x74 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x08005404                _signal_r
+ .text._raise_r
+                0x08005478       0x98 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x08005478                _raise_r
+ .text.__sigtramp_r
+                0x08005510       0x94 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x08005510                __sigtramp_r
+ .text.raise    0x080055a4       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x080055a4                raise
+ .text.signal   0x080055b8       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x080055b8                signal
+ .text._init_signal
+                0x080055d0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x080055d0                _init_signal
+ .text.__sigtramp
+                0x080055e0       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x080055e0                __sigtramp
+ .text._kill_r  0x080055f4       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                0x080055f4                _kill_r
+ .text._getpid_r
+                0x08005634       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                0x08005634                _getpid_r
+ .text._malloc_trim_r
+                0x08005644      0x100 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x08005644                _malloc_trim_r
+ .text._free_r  0x08005744      0x26c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x08005744                _free_r
+ .text.cleanup_glue
+                0x080059b0       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x080059b0                cleanup_glue
+ .text._reclaim_reent
+                0x080059dc      0x108 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x080059dc                _reclaim_reent
+ .text.findslot
+                0x08005ae4       0x6c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.checkerror.part.0
+                0x08005b50       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.initialise_monitor_handles
+                0x08005b84      0x11c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005b84                initialise_monitor_handles
+ .text._swiread
+                0x08005ca0       0x4c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005ca0                _swiread
+ .text._read    0x08005cec       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005cec                _read
+ .text._swilseek
+                0x08005d44      0x100 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005d44                _swilseek
+ .text._lseek   0x08005e44        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005e44                _lseek
+ .text._swiwrite
+                0x08005e48       0x4c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005e48                _swiwrite
+ .text._write   0x08005e94       0x9c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005e94                _write
+ .text._swiclose
+                0x08005f30       0x4c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005f30                _swiclose
+ .text._close   0x08005f7c       0xac /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08005f7c                _close
+ .text._getpid  0x08006028        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006028                _getpid
+ .text._sbrk    0x08006030       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006030                _sbrk
+ .text._swistat
+                0x08006088       0x7c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006088                _swistat
+ .text._fstat   0x08006104       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006104                _fstat
+ .text._stat    0x08006130       0x64 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006130                _stat
+ .text._swiopen
+                0x08006194      0x144 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006194                _swiopen
+ .text._open    0x080062d8       0x1c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x080062d8                _open
+ .text._link    0x080062f4       0x1c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x080062f4                _link
+ .text._unlink  0x08006310       0x78 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006310                _unlink
+ .text._gettimeofday
+                0x08006388       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006388                _gettimeofday
+ .text._clock   0x080063d8       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x080063d8                _clock
+ .text._times   0x08006400       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006400                _times
+ .text._isatty  0x08006444       0x70 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006444                _isatty
+ .text._system  0x080064b4       0x90 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x080064b4                _system
+ .text._rename  0x08006544       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x08006544                _rename
+ .text._exit    0x080065ac       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+                0x080065ac                _exit
+ .text._kill    0x080065c0       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+                0x080065c0                _kill
+ .text.__errno  0x080065f8       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                0x080065f8                __errno
+ .text.__fp_lock
+                0x08006608        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x08006610        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x08006618       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006618                _cleanup_r
+ .text.__sfmoreglue
+                0x08006630       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006630                __sfmoreglue
+ .text._cleanup
+                0x08006680       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006680                _cleanup
+ .text.__sinit  0x080066a4      0x168 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x080066a4                __sinit
+ .text.__sfp    0x0800680c       0xf8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x0800680c                __sfp
+ .text.__sfp_lock_acquire
+                0x08006904        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006904                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x08006908        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006908                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x0800690c        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x0800690c                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x08006910        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006910                __sinit_lock_release
+ .text.__fp_lock_all
+                0x08006914       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006914                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08006938       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x08006938                __fp_unlock_all
+ .text._fwalk   0x0800695c       0x84 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x0800695c                _fwalk
+ .text._fwalk_reent
+                0x080069e0       0x8c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x080069e0                _fwalk_reent
+ .text.__sread  0x08006a6c       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x08006a6c                __sread
+ .text.__seofread
+                0x08006aa0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x08006aa0                __seofread
+ .text.__swrite
+                0x08006aa8       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x08006aa8                __swrite
+ .text.__sseek  0x08006b00       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x08006b00                __sseek
+ .text.__sclose
+                0x08006b30       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x08006b30                __sclose
+ .text.strlen   0x08006b44       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                0x08006b44                strlen
+ .text._write_r
+                0x08006ba4       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x08006ba4                _write_r
+ .text._close_r
+                0x08006be8       0x3c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x08006be8                _close_r
+ .text._fclose_r
+                0x08006c24       0xf0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x08006c24                _fclose_r
+ .text.fclose   0x08006d14       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x08006d14                fclose
+ .text.__sflush_r
+                0x08006d28      0x244 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x08006d28                __sflush_r
+ .text._fflush_r
+                0x08006f6c       0x54 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x08006f6c                _fflush_r
+ .text.fflush   0x08006fc0       0x3c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x08006fc0                fflush
+ .text._lseek_r
+                0x08006ffc       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x08006ffc                _lseek_r
+ .text._read_r  0x08007040       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x08007040                _read_r
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x08007084        0x4 
+ .rodata._ZTVN10__cxxabiv115__forced_unwindE
+                0x08007088       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007088                vtable for __cxxabiv1::__forced_unwind
+ .rodata._ZTVSt9exception
+                0x080070a0       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080070a0                vtable for std::exception
+ .rodata._ZTIN10__cxxabiv115__forced_unwindE
+                0x080070b8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080070b8                typeinfo for __cxxabiv1::__forced_unwind
+ .rodata._ZTISt9exception
+                0x080070c0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080070c0                typeinfo for std::exception
+ .rodata._ZTSSt13bad_exception
+                0x080070c8       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x080070c8                typeinfo name for std::bad_exception
+ .rodata.str1.4
+                0x080070dc       0x23 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                 0x24 (size before relaxing)
+ *fill*         0x080070ff        0x1 
+ .rodata._ZTSN10__cxxabiv119__foreign_exceptionE
+                0x08007100       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007100                typeinfo name for __cxxabiv1::__foreign_exception
+ .rodata._ZTIN10__cxxabiv119__foreign_exceptionE
+                0x08007124        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007124                typeinfo for __cxxabiv1::__foreign_exception
+ *fill*         0x0800712c        0x4 
+ .rodata._ZTVSt13bad_exception
+                0x08007130       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007130                vtable for std::bad_exception
+ .rodata._ZTSSt9exception
+                0x08007148       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007148                typeinfo name for std::exception
+ .rodata._ZTVN10__cxxabiv119__foreign_exceptionE
+                0x08007158       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007158                vtable for __cxxabiv1::__foreign_exception
+ .rodata._ZTSN10__cxxabiv115__forced_unwindE
+                0x08007170       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007170                typeinfo name for __cxxabiv1::__forced_unwind
+ .rodata._ZTISt13bad_exception
+                0x08007190        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                0x08007190                typeinfo for std::bad_exception
+ *fill*         0x0800719c        0x4 
+ .rodata._ZTVN10__cxxabiv117__class_type_infoE
+                0x080071a0       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x080071a0                vtable for __cxxabiv1::__class_type_info
+ .rodata._ZTIN10__cxxabiv117__class_type_infoE
+                0x080071d0        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x080071d0                typeinfo for __cxxabiv1::__class_type_info
+ .rodata._ZTSN10__cxxabiv117__class_type_infoE
+                0x080071dc       0x24 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                0x080071dc                typeinfo name for __cxxabiv1::__class_type_info
+ .rodata._ZTVN10__cxxabiv120__si_class_type_infoE
+                0x08007200       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x08007200                vtable for __cxxabiv1::__si_class_type_info
+ .rodata._ZTIN10__cxxabiv120__si_class_type_infoE
+                0x08007230        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x08007230                typeinfo for __cxxabiv1::__si_class_type_info
+ .rodata._ZTSN10__cxxabiv120__si_class_type_infoE
+                0x0800723c       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                0x0800723c                typeinfo name for __cxxabiv1::__si_class_type_info
+ .rodata._ZTISt9type_info
+                0x08007264        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08007264                typeinfo for std::type_info
+ .rodata._ZTSSt9type_info
+                0x0800726c       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x0800726c                typeinfo name for std::type_info
+ *fill*         0x0800727c        0x4 
+ .rodata._ZTVSt9type_info
+                0x08007280       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                0x08007280                vtable for std::type_info
+ .rodata.str1.4
+                0x080072a0        0x2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x080072a2        0x2 
+ .rodata._global_impure_ptr
+                0x080072a4        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x080072a4                _global_impure_ptr
+ .rodata.str1.4
+                0x080072a8        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ *(.fini)
+                0x080072ac                . = ALIGN (0x4)
+                0x080072ac                _etext = .
+
+.vfp11_veneer   0x080072ac        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080072ac        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080072ac        0x0
+ .iplt          0x00000000        0x0 CMakeFiles/main.elf.dir/main.cpp.obj
+
+.ARM.extab      0x080072ac      0x10c
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x080072ac       0x24 CMakeFiles/main.elf.dir/main.cpp.obj
+ .ARM.extab.text._ZL12read_sleb128PKhPl
+                0x080072d0        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.extab.text._ZL28read_encoded_value_with_basehjPKhPj
+                0x080072d0        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.extab.text._ZL21base_of_encoded_valuehP15_Unwind_Context
+                0x080072d0        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.extab.text._ZL17parse_lsda_headerP15_Unwind_ContextPKhP16lsda_header_info
+                0x080072dc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.extab.text.__gxx_personality_v0
+                0x080072dc       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.extab.text.__cxa_type_match
+                0x080072fc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.extab.text.__cxa_begin_cleanup
+                0x080072fc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.extab.text.__gnu_end_cleanup
+                0x080072fc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.extab.text._ZN10__cxxabiv111__terminateEPFvvE
+                0x080072fc       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZSt9terminatev
+                0x08007328        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZN10__cxxabiv112__unexpectedEPFvvE
+                0x08007328        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZSt10unexpectedv
+                0x08007334        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZSt13set_terminatePFvvE
+                0x08007340        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZSt14set_unexpectedPFvvE
+                0x08007340        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.extab.text._ZN10__cxxabiv1L24__is_gxx_exception_classEPc
+                0x08007340        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .ARM.extab.text.__cxa_call_terminate
+                0x08007340        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .ARM.extab.text.__cxa_call_unexpected
+                0x08007340       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .ARM.extab.text.__cxa_get_exception_ptr
+                0x08007368        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.extab.text.__cxa_begin_catch
+                0x08007368       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.extab.text.__cxa_end_catch
+                0x08007388        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.extab.text._ZSt18uncaught_exceptionv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.extab.text._ZNSt9exceptionD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZNSt13bad_exceptionD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZN10__cxxabiv115__forced_unwindD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZN10__cxxabiv119__foreign_exceptionD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZNKSt9exception4whatEv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZNKSt13bad_exception4whatEv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZNSt9exceptionD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZNSt13bad_exceptionD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZN10__cxxabiv115__forced_unwindD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZN10__cxxabiv119__foreign_exceptionD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.extab.text._ZL23__gxx_exception_cleanup19_Unwind_Reason_CodeP21_Unwind_Control_Block
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.extab.text.__cxa_throw
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.extab.text.__cxa_rethrow
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.extab.text.__cxa_get_globals_fast
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .ARM.extab.text.__cxa_get_globals
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .ARM.extab.text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PPv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv117__class_type_info20__do_find_public_srcEiPKvPKS0_S2_
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZN10__cxxabiv117__class_type_infoD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZN10__cxxabiv117__class_type_infoD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PKvRNS0_15__upcast_resultE
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv117__class_type_info10__do_catchEPKSt9type_infoPPvj
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv117__class_type_info12__do_dyncastEiNS0_10__sub_kindEPKS0_PKvS3_S5_RNS0_16__dyncast_resultE
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.extab.text.__cxa_allocate_exception
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.extab.text.__cxa_free_exception
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.extab.text.__cxa_allocate_dependent_exception
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.extab.text.__cxa_free_dependent_exception
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.extab.text._ZdlPv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .ARM.extab.text.__cxa_pure_virtual
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .ARM.extab.text.__cxa_deleted_virtual
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .ARM.extab.text._ZN10__cxxabiv120__si_class_type_infoD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.extab.text._ZN10__cxxabiv120__si_class_type_infoD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv120__si_class_type_info20__do_find_public_srcEiPKvPKNS_17__class_type_infoES2_
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv120__si_class_type_info12__do_dyncastEiNS_17__class_type_info10__sub_kindEPKS1_PKvS4_S6_RNS1_16__dyncast_resultE
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.extab.text._ZNK10__cxxabiv120__si_class_type_info11__do_upcastEPKNS_17__class_type_infoEPKvRNS1_15__upcast_resultE
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.extab.text._ZNSt9type_infoD2Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNKSt9type_info14__is_pointer_pEv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNKSt9type_info15__is_function_pEv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNKSt9type_info11__do_upcastEPKN10__cxxabiv117__class_type_infoEPPv
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNSt9type_infoD0Ev
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNKSt9type_infoeqERKS_
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab.text._ZNKSt9type_info10__do_catchEPKS_PPvj
+                0x08007394        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.extab     0x08007394        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x080073a0       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+
+.ARM            0x080073b8      0x1e0
+                0x080073b8                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x080073b8       0x18 CMakeFiles/main.elf.dir/main.cpp.obj
+                                 0x10 (size before relaxing)
+ .ARM.exidx.text._ZL12read_sleb128PKhPl
+                0x08007490        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZL28read_encoded_value_with_basehjPKhPj
+                0x08007490        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.exidx.text._ZL21base_of_encoded_valuehP15_Unwind_Context
+                0x08007498        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.exidx.text._ZL17parse_lsda_headerP15_Unwind_ContextPKhP16lsda_header_info
+                0x080074a0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.exidx.text.__gxx_personality_v0
+                0x080074a8       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_type_match
+                0x080074b8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.exidx.text.__cxa_begin_cleanup
+                0x080074c0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.exidx.text.__gnu_end_cleanup
+                0x080074c8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv111__terminateEPFvvE
+                0x080074c8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.exidx.text._ZSt9terminatev
+                0x080074d0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.exidx.text._ZN10__cxxabiv112__unexpectedEPFvvE
+                0x080074d8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.exidx.text._ZSt10unexpectedv
+                0x080074e0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.exidx.text._ZSt13set_terminatePFvvE
+                0x080074e8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.exidx.text._ZSt14set_unexpectedPFvvE
+                0x080074f0        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv1L24__is_gxx_exception_classEPc
+                0x080074f0        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_call_terminate
+                0x080074f0        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_call_unexpected
+                0x080074f0        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .ARM.exidx.text.__cxa_get_exception_ptr
+                0x080074f8        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.exidx.text.__cxa_begin_catch
+                0x08007500        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.exidx.text.__cxa_end_catch
+                0x08007508        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.exidx.text._ZSt18uncaught_exceptionv
+                0x08007510        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.exidx.text._ZNSt9exceptionD2Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt13bad_exceptionD2Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv115__forced_unwindD2Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv119__foreign_exceptionD2Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt9exception4whatEv
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt13bad_exception4whatEv
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt9exceptionD0Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt13bad_exceptionD0Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv115__forced_unwindD0Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv119__foreign_exceptionD0Ev
+                0x08007518        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZL23__gxx_exception_cleanup19_Unwind_Reason_CodeP21_Unwind_Control_Block
+                0x08007518        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.exidx.text.__cxa_throw
+                0x08007520        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.exidx.text.__cxa_rethrow
+                0x08007528        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.exidx.text.__cxa_get_globals_fast
+                0x08007530        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .ARM.exidx.text.__cxa_get_globals
+                0x08007538        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PPv
+                0x08007538        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text._ZNK10__cxxabiv117__class_type_info20__do_find_public_srcEiPKvPKS0_S2_
+                0x08007540        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text._ZN10__cxxabiv117__class_type_infoD2Ev
+                0x08007548        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text._ZN10__cxxabiv117__class_type_infoD0Ev
+                0x08007550        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PKvRNS0_15__upcast_resultE
+                0x08007550        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text._ZNK10__cxxabiv117__class_type_info10__do_catchEPKSt9type_infoPPvj
+                0x08007558        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text._ZNK10__cxxabiv117__class_type_info12__do_dyncastEiNS0_10__sub_kindEPKS0_PKvS3_S5_RNS0_16__dyncast_resultE
+                0x08007560        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.exidx.text.__cxa_allocate_exception
+                0x08007568        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.exidx.text.__cxa_free_exception
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_allocate_dependent_exception
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_free_dependent_exception
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZdlPv
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_pure_virtual
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__cxa_deleted_virtual
+                0x08007570        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN10__cxxabiv120__si_class_type_infoD2Ev
+                0x08007570        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.exidx.text._ZN10__cxxabiv120__si_class_type_infoD0Ev
+                0x08007578        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNK10__cxxabiv120__si_class_type_info20__do_find_public_srcEiPKvPKNS_17__class_type_infoES2_
+                0x08007578        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.exidx.text._ZNK10__cxxabiv120__si_class_type_info12__do_dyncastEiNS_17__class_type_info10__sub_kindEPKS1_PKvS4_S6_RNS1_16__dyncast_resultE
+                0x08007580        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.exidx.text._ZNK10__cxxabiv120__si_class_type_info11__do_upcastEPKNS_17__class_type_infoEPKvRNS1_15__upcast_resultE
+                0x08007588        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.exidx.text._ZNSt9type_infoD2Ev
+                0x08007590        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.exidx.text._ZNKSt9type_info14__is_pointer_pEv
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt9type_info15__is_function_pEv
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt9type_info11__do_upcastEPKN10__cxxabiv117__class_type_infoEPPv
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt9type_infoD0Ev
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt9type_infoeqERKS_
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt9type_info10__do_catchEPKS_PPvj
+                0x08007598        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x080073d0       0x88 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+                                 0xd8 (size before relaxing)
+ .ARM.exidx     0x08007458       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+                                 0x48 (size before relaxing)
+                0x08007598                __exidx_end = .
+
+.rel.dyn        0x08007598        0x0
+ .rel.iplt      0x00000000        0x0 CMakeFiles/main.elf.dir/main.cpp.obj
+
+.ARM.attributes
+                0x08007598       0x33
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08007598       0x30 CMakeFiles/main.elf.dir/main.cpp.obj
+ .ARM.attributes
+                0x080075c8       0x33 CMakeFiles/main.elf.dir/delay.c.obj
+ .ARM.attributes
+                0x080075fb       0x33 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .ARM.attributes
+                0x0800762e       0x33 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .ARM.attributes
+                0x08007661       0x33 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .ARM.attributes
+                0x08007694       0x33 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .ARM.attributes
+                0x080076c7       0x33 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .ARM.attributes
+                0x080076fa       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .ARM.attributes
+                0x0800772a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .ARM.attributes
+                0x0800775a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .ARM.attributes
+                0x0800778a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .ARM.attributes
+                0x080077ba       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .ARM.attributes
+                0x080077ea       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .ARM.attributes
+                0x0800781a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .ARM.attributes
+                0x0800784a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .ARM.attributes
+                0x0800787a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .ARM.attributes
+                0x080078aa       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .ARM.attributes
+                0x080078da       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .ARM.attributes
+                0x0800790a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .ARM.attributes
+                0x0800793a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .ARM.attributes
+                0x0800796a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .ARM.attributes
+                0x0800799a       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .ARM.attributes
+                0x080079ca       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .ARM.attributes
+                0x080079fa       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x08007a2a       0x1c /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x08007a46       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x08007a76       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .ARM.attributes
+                0x08007aa6       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x08007ad6       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x08007b06       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x08007b36       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x08007b66       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x08007b96       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x08007bc6       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .ARM.attributes
+                0x08007bf6       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x08007c26       0x16 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x08007c3c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x08007c6c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x08007c9c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x08007ccc       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x08007cfc       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x08007d2c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x08007d5c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x08007d8c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x08007dbc       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x08007dec       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x08007e1c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x08007e4c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x08007e7c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x08007eac       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x08007edc       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x08007f0c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x08007f3c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.preinit_array  0x08007598        0x0
+                0x08007598                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08007598                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08007598        0x0
+                0x08007598                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x08007598                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08007598        0x0
+                0x08007598                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x08007598                PROVIDE (__fini_array_end, .)
+                0x08007598                _sidata = .
+
+.data           0x20000000      0x86c load address 0x08007f6c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 CMakeFiles/main.elf.dir/main.cpp.obj
+ .data          0x20000000        0x0 CMakeFiles/main.elf.dir/delay.c.obj
+ .data          0x20000000        0x0 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .data          0x20000000       0x14 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014        0x0 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .data          0x20000014       0x14 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .data          0x20000028        0x0 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x20000028        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ *(.data*)
+ .data._ZN10__cxxabiv119__terminate_handlerE
+                0x20000028        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+                0x20000028                __cxxabiv1::__terminate_handler
+ .data._ZN10__cxxabiv120__unexpected_handlerE
+                0x2000002c        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+                0x2000002c                __cxxabiv1::__unexpected_handler
+ .data.__malloc_av_
+                0x20000030      0x408 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x20000030                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000438        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x20000438                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x2000043c        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x2000043c                __malloc_sbrk_base
+ .data.impure_data
+                0x20000440      0x428 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000868        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x20000868                _impure_ptr
+                0x2000086c                . = ALIGN (0x4)
+                0x2000086c                _edata = .
+
+.igot.plt       0x2000086c        0x0 load address 0x080087d8
+ .igot.plt      0x00000000        0x0 CMakeFiles/main.elf.dir/main.cpp.obj
+                0x2000086c                . = ALIGN (0x4)
+
+.bss            0x20000870      0xae8 load address 0x080087e0
+                0x20000870                _sbss = .
+                0x20000870                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000870        0x0 CMakeFiles/main.elf.dir/main.cpp.obj
+ .bss           0x20000870        0x4 CMakeFiles/main.elf.dir/delay.c.obj
+ .bss           0x20000874        0x0 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .bss           0x20000874        0x0 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .bss           0x20000874        0x0 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .bss           0x20000874        0x0 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .bss           0x20000874        0x0 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x20000874        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ *(.bss*)
+ .bss._ZL10eh_globals
+                0x20000874        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .bss._ZL15dependents_used
+                0x20000880        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ *fill*         0x20000884        0x4 
+ .bss._ZL17dependents_buffer
+                0x20000888      0x1e0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .bss._ZL14emergency_used
+                0x20000a68        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ *fill*         0x20000a6c        0x4 
+ .bss._ZL16emergency_buffer
+                0x20000a70      0x800 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .bss.__malloc_max_total_mem
+                0x20001270        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x20001270                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20001274        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x20001274                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20001278        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x20001278                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x2000127c       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x2000127c                __malloc_current_mallinfo
+ .bss.monitor_stdout
+                0x200012a4        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.heap_end.5771
+                0x200012a8        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x200012ac        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x200012b0        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x200012b4       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ *(COMMON)
+ COMMON         0x20001354        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x20001354                errno
+                0x20001358                . = ALIGN (0x4)
+                0x20001358                _ebss = .
+                0x20001358                __bss_end__ = _ebss
+                0x20001358                PROVIDE (end, _ebss)
+                0x20001358                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x20001358      0x200 load address 0x080092c8
+                0x20001358                . = ALIGN (0x4)
+                0x20001358                . = (. + _Min_Heap_Size)
+                0x20001558                . = (. + _Min_Stack_Size)
+ *fill*         0x20001358      0x200 
+                0x20001558                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(main.elf elf32-littlearm)
+
+.comment        0x00000000       0x4a
+ .comment       0x00000000       0x1f CMakeFiles/main.elf.dir/main.cpp.obj
+                                 0x20 (size before relaxing)
+ .comment       0x00000000       0x20 CMakeFiles/main.elf.dir/delay.c.obj
+ .comment       0x00000000       0x20 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .comment       0x00000000       0x20 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .comment       0x00000000       0x20 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .comment       0x00000000       0x20 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .comment       0x00000000       0x20 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .comment       0x0000001f       0x2b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                                 0x2c (size before relaxing)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .comment       0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_info     0x00000000    0x1aab8
+ .debug_info    0x00000000      0x1db CMakeFiles/main.elf.dir/delay.c.obj
+ .debug_info    0x000001db      0x119 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .debug_info    0x000002f4      0x434 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .debug_info    0x00000728      0x4e9 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .debug_info    0x00000c11      0x877 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .debug_info    0x00001488      0x6d1 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .debug_info    0x00001b59     0x1b54 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_info    0x000036ad      0x780 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_info    0x00003e2d      0x63d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_info    0x0000446a      0xe3b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_info    0x000052a5      0x9ce /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_info    0x00005c73      0x5a3 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_info    0x00006216      0x432 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .debug_info    0x00006648      0x6cc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_info    0x00006d14       0xb4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .debug_info    0x00006dc8      0x719 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_info    0x000074e1      0x9da /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_info    0x00007ebb      0xf75 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_info    0x00008e30      0x43d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_info    0x0000926d       0xdf /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_info    0x0000934c      0x8df /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_info    0x00009c2b      0x51f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_info    0x0000a14a     0x1bca /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_info    0x0000bd14       0x94 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .debug_info    0x0000bda8      0x944 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_info    0x0000c6ec       0xd4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_info    0x0000c7c0      0x915 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_info    0x0000d0d5      0xd81 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000de56      0x131 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x0000df87      0x117 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x0000e09e      0x8b4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_info    0x0000e952      0x8f4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x0000f246      0xb5e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_info    0x0000fda4      0x958 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_info    0x000106fc       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_info    0x0001079c      0xc06 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x000113a2      0x894 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x00011c36      0x9f9 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_info    0x0001262f     0x1e57 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_info    0x00014486       0x7f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_info    0x00014505      0x142 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_info    0x00014647      0x889 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_info    0x00014ed0      0xd39 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_info    0x00015c09      0x99e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_info    0x000165a7      0xb89 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_info    0x00017130       0xb5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_info    0x000171e5      0x929 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_info    0x00017b0e      0x8e0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_info    0x000183ee      0x9e5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_info    0x00018dd3      0xab7 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_info    0x0001988a      0x90c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_info    0x0001a196      0x922 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_abbrev   0x00000000     0x6830
+ .debug_abbrev  0x00000000       0xfa CMakeFiles/main.elf.dir/delay.c.obj
+ .debug_abbrev  0x000000fa       0x58 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .debug_abbrev  0x00000152      0x177 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .debug_abbrev  0x000002c9      0x154 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .debug_abbrev  0x0000041d      0x1ba ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .debug_abbrev  0x000005d7      0x1c8 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .debug_abbrev  0x0000079f      0x4b0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_abbrev  0x00000c4f      0x267 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_abbrev  0x00000eb6      0x229 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_abbrev  0x000010df      0x462 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_abbrev  0x00001541      0x2f2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_abbrev  0x00001833      0x24a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_abbrev  0x00001a7d      0x127 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .debug_abbrev  0x00001ba4      0x2bc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_abbrev  0x00001e60       0x84 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .debug_abbrev  0x00001ee4      0x1b2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_abbrev  0x00002096      0x3d4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_abbrev  0x0000246a      0x422 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_abbrev  0x0000288c      0x144 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_abbrev  0x000029d0       0x9e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_abbrev  0x00002a6e      0x33b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_abbrev  0x00002da9      0x2b5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_abbrev  0x0000305e      0x429 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_abbrev  0x00003487       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .debug_abbrev  0x0000349b      0x26e /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_abbrev  0x00003709       0x95 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_abbrev  0x0000379e      0x1f7 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x00003995      0x2a2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00003c37       0xab /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00003ce2       0x9f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00003d81      0x19a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00003f1b      0x1fd /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00004118      0x2c4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_abbrev  0x000043dc      0x1fa /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_abbrev  0x000045d6       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x000045ea      0x26b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x00004855      0x180 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x000049d5      0x258 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x00004c2d      0x4bf /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_abbrev  0x000050ec       0x79 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_abbrev  0x00005165       0xd6 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_abbrev  0x0000523b      0x18f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x000053ca      0x339 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x00005703      0x1c2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x000058c5      0x22b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x00005af0       0x70 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00005b60      0x1f4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x00005d54      0x1ef /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x00005f43      0x273 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x000061b6      0x28d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x00006443      0x1fe /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00006641      0x1ef /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_aranges  0x00000000      0x9b0
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/main.elf.dir/delay.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .debug_aranges
+                0x00000040       0x20 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .debug_aranges
+                0x00000060       0x20 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .debug_aranges
+                0x00000080       0x20 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .debug_aranges
+                0x000000a0       0x20 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .debug_aranges
+                0x000000c0       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_aranges
+                0x00000100       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_aranges
+                0x00000130       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_aranges
+                0x00000178       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_aranges
+                0x000001a8       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_aranges
+                0x000001e0       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_aranges
+                0x00000248       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .debug_aranges
+                0x00000260       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_aranges
+                0x00000290       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .debug_aranges
+                0x000002a8       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_aranges
+                0x000002d0       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_aranges
+                0x00000320       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_aranges
+                0x00000358       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_aranges
+                0x00000378       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_aranges
+                0x000003a0       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_aranges
+                0x000003e0       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_aranges
+                0x00000430       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_aranges
+                0x00000450       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .debug_aranges
+                0x00000470       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_aranges
+                0x00000490       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_aranges
+                0x000004b0       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x000004d8       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x000004f8       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000518       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000538       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000560       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000580       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_aranges
+                0x000005d8       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_aranges
+                0x00000600       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x00000620       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000648       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000660       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x00000688       0xe8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_aranges
+                0x00000770       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_aranges
+                0x00000790       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_aranges
+                0x000007b0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x000007d0       0x80 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000850       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000878       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x000008b8       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000008d8       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x000008f8       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x00000918       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000940       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000970       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000990       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_line     0x00000000     0x60a2
+ .debug_line    0x00000000      0x1c5 CMakeFiles/main.elf.dir/delay.c.obj
+ .debug_line    0x000001c5       0xfa CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .debug_line    0x000002bf      0x1bc ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .debug_line    0x0000047b      0x201 ../Libraries/src/libstddriver.a(misc.c.obj)
+ .debug_line    0x0000067c      0x31b ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .debug_line    0x00000997      0x2be ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .debug_line    0x00000c55      0x5ed /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_line    0x00001242      0x22f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_line    0x00001471      0x230 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_line    0x000016a1      0x2a2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_line    0x00001943      0x2a1 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_line    0x00001be4      0x210 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_line    0x00001df4      0x1b5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+ .debug_line    0x00001fa9      0x297 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_line    0x00002240       0xf2 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+ .debug_line    0x00002332      0x1f9 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_line    0x0000252b      0x205 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_line    0x00002730      0x391 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_line    0x00002ac1      0x139 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_line    0x00002bfa      0x107 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_line    0x00002d01      0x1d7 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_line    0x00002ed8      0x187 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_line    0x0000305f      0x4b0 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_line    0x0000350f       0xaf /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(libunwind.o)
+ .debug_line    0x000035be      0x1b1 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_line    0x0000376f       0xe1 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_line    0x00003850      0x137 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_line    0x00003987      0x31e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x00003ca5      0x118 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00003dbd      0x103 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00003ec0       0xf1 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_line    0x00003fb1      0x130 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x000040e1      0x224 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_line    0x00004305      0x141 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_line    0x00004446       0xf7 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_line    0x0000453d      0x204 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x00004741       0xd3 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x00004814      0x162 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_line    0x00004976      0x65e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_line    0x00004fd4       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_line    0x00005024       0x65 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_line    0x00005089       0xee /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_line    0x00005177      0x2d4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_line    0x0000544b      0x184 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_line    0x000055cf      0x195 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_line    0x00005764       0xd4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_line    0x00005838      0x12e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_line    0x00005966      0x12e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_line    0x00005a94      0x18d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_line    0x00005c21      0x226 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_line    0x00005e47      0x12e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_line    0x00005f75      0x12d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_str      0x00000000     0x4f13
+ .debug_str     0x00000000      0x14c CMakeFiles/main.elf.dir/delay.c.obj
+                                0x19a (size before relaxing)
+ .debug_str     0x0000014c       0xd9 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+                                0x19a (size before relaxing)
+ .debug_str     0x00000225      0x186 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+                                0x2aa (size before relaxing)
+ .debug_str     0x000003ab      0x219 ../Libraries/src/libstddriver.a(misc.c.obj)
+                                0x36b (size before relaxing)
+ .debug_str     0x000005c4      0x40b ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+                                0x5cd (size before relaxing)
+ .debug_str     0x000009cf      0x38e ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+                                0x4cc (size before relaxing)
+ .debug_str     0x00000d5d      0xab1 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+                                0xc8b (size before relaxing)
+ .debug_str     0x0000180e      0x1cc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+                                0x68c (size before relaxing)
+ .debug_str     0x000019da      0x21c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+                                0x469 (size before relaxing)
+ .debug_str     0x00001bf6      0x1b4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+                                0x8c7 (size before relaxing)
+ .debug_str     0x00001daa      0x13b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+                                0x6b4 (size before relaxing)
+ .debug_str     0x00001ee5      0x2ee /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+                                0x3cb (size before relaxing)
+ .debug_str     0x000021d3       0xaa /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_term_handler.o)
+                                0x2c2 (size before relaxing)
+ .debug_str     0x0000227d      0x1ae /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+                                0x6aa (size before relaxing)
+ .debug_str     0x0000242b       0xaa /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_unex_handler.o)
+                                0x1de (size before relaxing)
+ .debug_str     0x000024d5       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+                                0x54e (size before relaxing)
+ .debug_str     0x00002575      0x6e3 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+                                0x7c8 (size before relaxing)
+ .debug_str     0x00002c58      0x3b7 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+                                0x8f3 (size before relaxing)
+ .debug_str     0x0000300f       0x98 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+                                0x270 (size before relaxing)
+ .debug_str     0x000030a7       0xbd /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+                                0x1bc (size before relaxing)
+ .debug_str     0x00003164      0x2ab /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+                                0x664 (size before relaxing)
+ .debug_str     0x0000340f      0x231 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+                                0x3f3 (size before relaxing)
+ .debug_str     0x00003640      0x698 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+                                0xbe4 (size before relaxing)
+ .debug_str     0x00003cd8       0x62 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+                                0x578 (size before relaxing)
+ .debug_str     0x00003d3a       0xce /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+                                0x166 (size before relaxing)
+ .debug_str     0x00003e08      0x390 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                                0x548 (size before relaxing)
+ .debug_str     0x00004198      0x214 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                0x743 (size before relaxing)
+ .debug_str     0x000043ac       0xa6 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                                0x19c (size before relaxing)
+ .debug_str     0x00004452       0x7a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000044cc       0x3f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                0x53d (size before relaxing)
+ .debug_str     0x0000450b       0x75 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                                0x52b (size before relaxing)
+ .debug_str     0x00004580       0xd3 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                                0x5aa (size before relaxing)
+ .debug_str     0x00004653       0x39 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                                0x530 (size before relaxing)
+ .debug_str     0x0000468c       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                0x68d (size before relaxing)
+ .debug_str     0x000046c0       0x49 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                0x534 (size before relaxing)
+ .debug_str     0x00004709       0x55 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                0x553 (size before relaxing)
+ .debug_str     0x0000475e      0x379 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                                0x83f (size before relaxing)
+ .debug_str     0x00004ad7       0x21 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+                                 0xc0 (size before relaxing)
+ .debug_str     0x00004af8       0x21 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+                                0x15e (size before relaxing)
+ .debug_str     0x00004b19       0x6a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                                0x51c (size before relaxing)
+ .debug_str     0x00004b83      0x141 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                                0x641 (size before relaxing)
+ .debug_str     0x00004cc4       0x45 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                                0x539 (size before relaxing)
+ .debug_str     0x00004d09       0x89 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                                0x58f (size before relaxing)
+ .debug_str     0x00004d92       0x33 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                                0x170 (size before relaxing)
+ .debug_str     0x00004dc5       0x2a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                                0x528 (size before relaxing)
+ .debug_str     0x00004def       0x2a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                                0x518 (size before relaxing)
+ .debug_str     0x00004e19       0x5a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                                0x580 (size before relaxing)
+ .debug_str     0x00004e73       0x4d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                                0x594 (size before relaxing)
+ .debug_str     0x00004ec0       0x2a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                                0x526 (size before relaxing)
+ .debug_str     0x00004eea       0x29 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                                0x526 (size before relaxing)
+
+.debug_frame    0x00000000     0x1bdc
+ .debug_frame   0x00000000       0x64 CMakeFiles/main.elf.dir/delay.c.obj
+ .debug_frame   0x00000064       0xe8 CMakeFiles/main.elf.dir/stm32f10x_it.c.obj
+ .debug_frame   0x0000014c       0x80 ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/libcmsis_sys.a(system_stm32f10x.c.obj)
+ .debug_frame   0x000001cc       0x9c ../Libraries/src/libstddriver.a(misc.c.obj)
+ .debug_frame   0x00000268      0x388 ../Libraries/src/libstddriver.a(stm32f10x_rcc.c.obj)
+ .debug_frame   0x000005f0      0x210 ../Libraries/src/libstddriver.a(stm32f10x_gpio.c.obj)
+ .debug_frame   0x00000800       0xa8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_frame   0x000008a8       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_frame   0x00000908       0x90 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_frame   0x00000998       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_frame   0x000009f8       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_frame   0x00000a60       0xd0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_frame   0x00000b30       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_frame   0x00000b98       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_frame   0x00000bc8       0xc8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_frame   0x00000c90       0x74 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_frame   0x00000d04       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_frame   0x00000d2c       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_frame   0x00000d6c       0xa8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_frame   0x00000e14       0x90 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_frame   0x00000ea4      0x28c /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_frame   0x00001130       0xe4 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_frame   0x00001214       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_frame   0x0000123c       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000127c       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x000012b4       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000012e0       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000130c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000133c       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001368       0xc0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_frame   0x00001428       0x44 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_frame   0x0000146c       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x000014bc       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00001504      0x2e8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_frame   0x000017ec       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_frame   0x00001814       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_frame   0x00001840       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_frame   0x00001860      0x130 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00001990       0x54 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x000019e4       0x88 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001a6c       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001a8c       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x00001ab8       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x00001ae4       0x3c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x00001b20       0x64 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00001b84       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00001bb0       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_loc      0x00000000     0x8b74
+ .debug_loc     0x00000000     0x1618 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_loc     0x00001618      0x328 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_loc     0x00001940       0x80 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_loc     0x000019c0      0x2f4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_loc     0x00001cb4      0x387 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_loc     0x0000203b      0x18a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_loc     0x000021c5      0x165 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_loc     0x0000232a      0x4b0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_loc     0x000027da      0x316 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_loc     0x00002af0       0x21 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_loc     0x00002b11      0x4c4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_loc     0x00002fd5      0x173 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_loc     0x00003148     0x1881 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_loc     0x000049c9      0x524 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(pr-support.o)
+ .debug_loc     0x00004eed       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_loc     0x00004f45      0xd04 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x00005c49      0x1c1 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00005e0a      0x175 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x00005f7f       0x66 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00005fe5      0x32c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_loc     0x00006311       0x9a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_loc     0x000063ab      0x3fc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x000067a7      0x13e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_loc     0x000068e5     0x137b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_loc     0x00007c60       0x21 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_loc     0x00007c81       0x42 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_loc     0x00007cc3      0x2dd /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_loc     0x00007fa0      0x284 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x00008224      0x2b5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_loc     0x000084d9       0x21 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_loc     0x000084fa       0xa5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_loc     0x0000859f       0x4d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_loc     0x000085ec      0x163 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_loc     0x0000874f      0x2db /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_loc     0x00008a2a       0xa5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x00008acf       0xa5 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+
+.debug_ranges   0x00000000     0x10a8
+ .debug_ranges  0x00000000      0x2c8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_personality.o)
+ .debug_ranges  0x000002c8       0xe0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_arm.o)
+ .debug_ranges  0x000003a8       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_terminate.o)
+ .debug_ranges  0x000003e0       0x80 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_call.o)
+ .debug_ranges  0x00000460       0xa8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_catch.o)
+ .debug_ranges  0x00000508       0xd0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_exception.o)
+ .debug_ranges  0x000005d8       0x88 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_throw.o)
+ .debug_ranges  0x00000660       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_globals.o)
+ .debug_ranges  0x00000678       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(class_type_info.o)
+ .debug_ranges  0x00000718       0x88 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(eh_alloc.o)
+ .debug_ranges  0x000007a0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(del_op.o)
+ .debug_ranges  0x000007b0       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(pure.o)
+ .debug_ranges  0x000007c8       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(si_class_type_info.o)
+ .debug_ranges  0x00000810       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libstdc++.a(tinfo.o)
+ .debug_ranges  0x00000868      0x118 /usr/lib/gcc/arm-none-eabi/4.8.2/libgcc.a(unwind-arm.o)
+ .debug_ranges  0x00000980       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_ranges  0x00000990       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_ranges  0x000009a8       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x000009e0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x000009f0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_ranges  0x00000a00       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_ranges  0x00000a18       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x00000a28       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_ranges  0x00000a70       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_ranges  0x00000a88       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_ranges  0x00000aa0       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_ranges  0x00000ad0      0x3b0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_ranges  0x00000e80       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_ranges  0x00000e90       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_ranges  0x00000ea0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_ranges  0x00000eb0       0xd8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x00000f88       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_ranges  0x00000fa0       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_ranges  0x00000fd0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000fe0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_ranges  0x00000ff0       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_ranges  0x00001000       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x00001030       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x00001088       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x00001098       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
